@@ -1,2 +1,2 @@
 puts "lauren" 
-.upcase
+puts "lauren".upcase
